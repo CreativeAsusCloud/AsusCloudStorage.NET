@@ -1,0 +1,19 @@
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.dll
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.pdb
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.dll
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.pdb
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.csprojResolveAssemblyReference.cache
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.pdb
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.csprojResolveAssemblyReference.cache
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.pdb
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\Newtonsoft.Json.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.dll
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\AsusCloud.Storage.pdb
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.csprojResolveAssemblyReference.cache
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.dll
+C:\Users\melissa\workspace3\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Debug\AsusCloud.Storage.pdb

@@ -1,0 +1,11 @@
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\bin\Release\AsusCloud.Storage.dll
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\bin\Release\AsusCloud.Storage.pdb
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\obj\Release\AsusCloud.Storage.dll
+D:\ASUS CLOUD SDK\net\AsusCloud.Storage\AsusCloud.Storage\obj\Release\AsusCloud.Storage.pdb
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Release\AsusCloud.Storage.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Release\AsusCloud.Storage.pdb
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Release\AsusCloud.Storage.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Release\AsusCloud.Storage.pdb
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\obj\Release\AsusCloud.Storage.csprojResolveAssemblyReference.cache
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Release\Newtonsoft.Json.dll
+D:\Asus WebStorage\melissa.lin@asuscloud.com\MySyncFolder\shared\from mirage\dotNET\AsusCloud.Storage\AsusCloud.Storage\AsusCloud.Storage\bin\Release\Newtonsoft.Json.xml
